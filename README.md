@@ -7,7 +7,7 @@ Snmp_v3_Dictionary_attack Prerequisites:
     
 Usage:  
 
-    python Snmp_kali.py --hostIP x.x.x.x --auth authNoPriv (or) authPriv
+    python Snmp_kali_dict_attack.py --hostIP x.x.x.x --auth authNoPriv (or) authPriv
     
 Note:
     
