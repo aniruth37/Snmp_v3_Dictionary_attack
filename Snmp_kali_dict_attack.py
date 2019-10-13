@@ -96,7 +96,7 @@ try:
 								o, output = proc.communicate()
 								print(c, user, password, password1)
 								if 'Timeout' in output:
-									t = t+1
+									t = t + 1
 								else:
 									t = 0
 								if t > 5:
